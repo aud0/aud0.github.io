@@ -77,7 +77,7 @@ hr.solid {
 }
 
 @media only screen and (max-width: 600px) {
-  a, blocks, desc, solid {
+  a, .blocks, .desc, .solid {
     width: 100%;
   }
 }
